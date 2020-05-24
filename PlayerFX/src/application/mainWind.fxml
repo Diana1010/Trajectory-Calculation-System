@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+
+<BorderPane xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.171" fx:controller="application.FXHelloCVController">
+   <bottom>
+      <HBox alignment="center" prefHeight="800.0" prefWidth="900.0">
+         <padding>
+            <Insets bottom="25" left="25" right="25" top="25" />
+         </padding>
+         <children>
+            <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true" />
+         </children>
+      </HBox>
+   </bottom>
+   <center>
+      <ImageView fx:id="currentFrame" />
+   </center>
+</BorderPane>

@@ -8,5 +8,25 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/OpenCV2"/>
+	<classpathentry kind="src" path="/javacv"/>
+	<classpathentry kind="lib" path="C:/Users/User-KP1/Downloads/javacv-platform-1.5.3-bin/javacv-platform-1.5.3-bin/ffmpeg.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User-KP1/Downloads/javacv-platform-1.5.3-bin/javacv-platform-1.5.3-bin/ffmpeg-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User-KP1/Downloads/javacv-platform-1.5.3-bin/javacv-platform-1.5.3-bin/flandmark.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User-KP1/Downloads/javacv-platform-1.5.3-bin/javacv-platform-1.5.3-bin/flycapture.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User-KP1/Downloads/javacv-platform-1.5.3-bin/javacv-platform-1.5.3-bin/javacpp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User-KP1/Downloads/javacv-platform-1.5.3-bin/javacv-platform-1.5.3-bin/javacv.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User-KP1/Downloads/javacv-platform-1.5.3-bin/javacv-platform-1.5.3-bin/javacv-platform.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User-KP1/Downloads/javacv-platform-1.5.3-bin/javacv-platform-1.5.3-bin/leptonica.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User-KP1/Downloads/javacv-platform-1.5.3-bin/javacv-platform-1.5.3-bin/libdc1394.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User-KP1/.m2/repository/com/google/android/android/4.1.1.4/android-4.1.1.4.jar" sourcepath="C:/Users/User-KP1/.m2/repository/com/google/android/android/4.1.1.4/android-4.1.1.4-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="com.google.android"/>
+			<attribute name="maven.artifactId" value="android"/>
+			<attribute name="maven.version" value="4.1.1.4"/>
+			<attribute name="maven.scope" value="compile"/>
+			<attribute name="maven.optionaldependency" value="true"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
